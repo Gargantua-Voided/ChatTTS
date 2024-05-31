@@ -1,3 +1,6 @@
+
+Models and stuff:
+https://huggingface.co/2Noise/ChatTTS/tree/main/asset
 # ChatTTS
 [**English**](./README.md) | [**中文简体**](./README_CN.md)
 
